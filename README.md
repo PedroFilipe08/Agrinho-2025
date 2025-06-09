@@ -50,5 +50,12 @@ Desenvolvido para ser acessível, leve e fácil de expandir, o Agrinho 2025 priv
 
 Para experimentar o Agrinho 2025 localmente, siga os passos abaixo:
 
-```bash
-Abra o link no topo direito da página, e aproveite o site, explore e tire suas dúvidas sobre o agronegócio.
+<p align="center">
+   <strong>Abra o link no topo direito da página, e aproveite o site, explore e tire suas dúvidas sobre o agronegócio.
+  
+</p>
+
+<p align="center">
+   <strong>Festejando a Conexão Campo Cidade</strong> | &copy; Todos os direitos reservados para SEED e ao aluno <a href="https://www.instagram.com/xp_.pedro.7/#">Pedro Filipe Schmittel</a> - Copyright 2025 
+  
+</p>
