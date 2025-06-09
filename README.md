@@ -1,14 +1,14 @@
 # Agrinho 2025
 
-> **Empoderando o setor agrícola com inovação, simplicidade e elegância.**
+> **Conexão entre o campo e a cidade.**
 
 ---
 
 ## 🚜 Visão Geral
 
-O **Agrinho 2025** é um projeto moderno e sofisticado voltado para transformar a experiência digital no agronegócio. Construído com foco na usabilidade, desempenho e estética refinada, este sistema oferece ferramentas intuitivas e eficientes que auxiliam profissionais do setor agrícola a otimizar seu trabalho com tecnologia de ponta.
+O **Agrinho 2025** é um projeto moderno feito para instruir as pessoas sobre alguns setores do agronegócio. Construído com foco na usabilidade, desempenho e estética refinada, traz a melhor experiência e usabilidade para o usuário, com cards, imagens e explicação de fácil entendimento.
 
-Desenvolvido para ser acessível, leve e fácil de expandir, o Agrinho 2025 privilegia uma interface limpa, responsiva e com alta performance, pensado tanto para usuários quanto para desenvolvedores.
+Desenvolvido para ser acessível, leve e fácil de expandir, o Agrinho 2025 privilegia uma interface limpa, responsiva e com alta performance, pensado para todos os usuários;
 
 ---
 
@@ -18,7 +18,7 @@ Desenvolvido para ser acessível, leve e fácil de expandir, o Agrinho 2025 priv
   Com tipografia impactante e uso generoso de espaços em branco, o design prioriza clareza e conforto visual.
 
 - **Layout responsivo e moderno**  
-  Totalmente adaptável a qualquer dispositivo, utilizando CSS Grid e Flexbox para flexibilidade máxima.
+  Totalmente adaptável a qualquer dispositivo, para flexibilidade máxima.
 
 - **Componentes modulados e reutilizáveis**  
   Estruturados para facilitar manutenção e evolução do código, com interações suaves e transições delicadas.
@@ -29,8 +29,6 @@ Desenvolvido para ser acessível, leve e fácil de expandir, o Agrinho 2025 priv
 - **Acessibilidade garantida**  
   Implementação semântica, com foco em navegação por teclado, leitores de tela e boas práticas ARIA.
 
-- **Suporte a modo claro e escuro**  
-  Tema personalizável via CSS custom properties para melhor conforto visual em diferentes ambientes.
 
 ---
 
@@ -48,13 +46,4 @@ Desenvolvido para ser acessível, leve e fácil de expandir, o Agrinho 2025 priv
 Para experimentar o Agrinho 2025 localmente, siga os passos abaixo:
 
 ```bash
-# Clone o repositório
-git clone https://github.com/PedroFilipe08/Agrinho-2025.git
-
-# Acesse a pasta do projeto
-cd Agrinho-2025
-
-# Abra o arquivo principal no navegador (ex.: index.html)
-# Basta dar dois cliques ou executar:
-open index.html  # macOS
-start index.html # Windows
+Abra o link no topo direito da página, e aproveite o site, explore e tire suas dúvidas sobre o agronegócio.
