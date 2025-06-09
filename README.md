@@ -34,10 +34,15 @@ Desenvolvido para ser acessível, leve e fácil de expandir, o Agrinho 2025 priv
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5 Semântico** — Estrutura clara e acessível.  
-- **CSS3 Moderno** — CSS Grid, Flexbox, variáveis CSS e animações sutis para uma experiência visual refinada.  
-- **JavaScript Vanilla** — Scripts leves para interatividade não intrusiva e responsiva.  
-- **Design Responsivo** — Mobile first, fluido e adaptável a diferentes resoluções.  
+- **HTML5 Semântico**: Utiliza tags HTML5 que melhoram a acessibilidade e a SEO do site.
+  
+- **CSS3 Moderno**: Inclui técnicas avançadas como Grid e Flexbox para layout, além de animações e variáveis CSS para um design dinâmico.
+
+- **JavaScript Vanilla**: Implementa interatividade sem depender de bibliotecas pesadas, garantindo um carregamento mais rápido.
+
+- **Bootstrap 5**: Framework que facilita a criação de layouts responsivos e componentes prontos, como botões e carrosséis.
+
+- **Design Responsivo**: O site é projetado para funcionar bem em dispositivos móveis e desktops, garantindo uma boa experiência do usuário em qualquer tela.
 
 ---
 
